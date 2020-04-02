@@ -1,2 +1,4 @@
 # Primeiros Passos
- Primeiro repositório do curso de Git e Github
+ Primeiro repositório de Git e GitHub
+
+ Criado para testes iniciais
